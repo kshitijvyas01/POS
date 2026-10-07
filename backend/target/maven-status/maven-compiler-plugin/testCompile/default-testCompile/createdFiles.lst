@@ -1,0 +1,10 @@
+com\medipoint\security\SecurityRoleAuthorizationTest$TestSecurityConfig.class
+com\medipoint\security\Step2SecurityRoleTest$TestSecurityConfig.class
+com\medipoint\service\MedicineServiceTest.class
+com\medipoint\security\Step2SecurityRoleTest.class
+com\medipoint\dto\ValidationTest.class
+com\medipoint\service\InventoryServiceTest.class
+com\medipoint\security\JwtServiceTest.class
+com\medipoint\service\SaleServiceTest.class
+com\medipoint\security\SecurityRoleAuthorizationTest.class
+com\medipoint\service\AuthServiceTest.class

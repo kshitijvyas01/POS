@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.medipoint.security.Step2SecurityRoleTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.217 s -- in com.medipoint.security.Step2SecurityRoleTest

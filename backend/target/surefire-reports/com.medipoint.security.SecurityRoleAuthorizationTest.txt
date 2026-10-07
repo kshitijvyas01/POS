@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.medipoint.security.SecurityRoleAuthorizationTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.500 s -- in com.medipoint.security.SecurityRoleAuthorizationTest
